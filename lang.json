@@ -1523,21 +1523,20 @@
 		        "link":"http://www.anpc.gov.ro/"
 		      	}
 			],
-	"food":[
-		      {
+	"food":[{
 		      	"type":"restaurant",
 		        "name": "Valahia",
 		        "adress":"Blv. Liviu Rebreanu, nr.52",
-		        "description":"something here",
+		        "description":"Telefon: 0040 256 486 104",
 		        "photo":"https://media-cdn.tripadvisor.com/media/photo-s/12/1e/1d/83/photo8jpg.jpg",
 		        "map":"show on map location",
-		        "link":"https://http://www.restaurant-valahia.ro"
+		        "link":"/http://www.restaurant-valahia.ro"
 		      	},
 		      {
 		      	"type":"restaurant",
 		        "name": "Lloyd",
 		        "adress":"Piata Victoriei, nr. 2",
-		        "description":"something here",
+		        "description":"Telefon: 0040 744 557 151",
 		        "photo":"https://www.banatulazi.ro/wp-content/uploads/2018/01/restaurant-lloyd5.jpg",
 		        "map":"show on map location",
 		        "link":"https://restaurant-lloyd.ro"
@@ -1546,7 +1545,7 @@
 		      	"type":"restaurant",
 		        "name": "Pepper",
 		        "adress":"Piata Unirii nr 13, Near Catholic Dome",
-		        "description":"something here",
+		        "description":"Telefon: 0040 720 408 250",
 		        "photo":"https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/56175003_729264160825871_898077992306081792_n.jpg?_nc_cat=101&_nc_oc=AQlEU29wBqYQb4MTfzgAvuK0-Lcw139nFB8A12lkZR8nbeYPGhMKw1YKVGxxSy2tLSc&_nc_ht=scontent-amt2-1.xx&oh=9b3d6c2d54df4f15ff8b2d0593d796af&oe=5DEADF65",
 		        "link":"https://www.facebook.com/peppertimisoara/"
 		      	},
@@ -1554,7 +1553,7 @@
 		      	"type":"restaurant",
 		        "name": "Vinto",
 		        "adress":"Florimund Mercy 4",
-		        "description":"something here",
+		        "description":"Telefon: 0040 755 080 028",
 		        "photo":"http://vinto.ro/wp-content/uploads/2014/07/Vinto-4-845x684.jpg",
 		        "link":"http://vinto.ro"
 		       },
@@ -1562,7 +1561,7 @@
 		      	"type":"restaurant",
 		        "name": "Grill to Chill",
 		        "adress":"Eugeniu de Savoya",
-		        "description":"something here",
+		        "description":"Telefon: 0040 755 111 797",
 		        "photo":"http://grilltochill.ro/grilltochill/images/others/sp1.jpg",
 		        "link":"http://grilltochill.ro/grilltochill/index2.html"
 		       },
@@ -1570,7 +1569,7 @@
 		      	"type":"restaurant",
 		        "name": "Sabres",
 		        "adress":"Craiova 1",
-		        "description":"something here",
+		        "description":"Telefon: 0040 756 722 737",
 		        "photo":"http://sabres.ro/assets/galleries/6/36599921_1750122205070834_1075480388106715136_n.jpg",
 		        "link":"http://sabres.ro/en/index.php?id=1"
 		       }
