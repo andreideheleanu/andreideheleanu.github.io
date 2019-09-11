@@ -505,7 +505,7 @@
 	      "region": {
 	        "latitude": 45.7553973,
 	        "longitude": 21.2263695,
-	        "latitude Delta": 0.0622,
+	        "latitudeDelta": 0.0622,
 	        "longitudeDelta": 0.0622
 	      },
       "markers": { 
