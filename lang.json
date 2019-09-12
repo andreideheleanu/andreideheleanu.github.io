@@ -517,7 +517,7 @@
 			          },
 			          "title": "Timișoara Orthodox Cathedral",
 			          "name":"Cathedral",
-					  "description": "Built between 1936 and 1941 in Neo-Moldavian and Byznatine style it has 11 towers with the highest reaching 90.5 meters. The paintings were finished in 1956 and it has an estimated capacity of 5000 people. The massive bells weigh roughly 8 tonns."
+					  "description": "Built between 1936 and 1941 in Neo-Moldavian and Byznatine style, it has 11 towers with the highest reaching 90.5 meters. The work on the paintings lasted until 1956. The cathedral has an estimated capacity of 5000 people. The massive bells weigh roughly 8 tonns."
 			        },
 			        {
 			          "coordinate": {
@@ -525,7 +525,7 @@
 			            "longitude": 21.2251843
 			          },
 			          "title": "Piata Victoriei - Victory Square",
-			          "description": "Victory Square is considered Timisoara's main square. Here in 1989 the people declared the city to be free of communism. Most of the buildings between the Opera House and the Cathedral are former palaces built during the Habsburgic era."
+			          "description": "Victory Square is considered Timisoara's main square. Here in 1989 the city was declared free of communism. Most of the buildings between the Opera House and the Cathedral are former palaces built during the Habsburgic era."
 			        },
 			        {
 			          "coordinate": {
@@ -533,7 +533,7 @@
 			            "longitude": 21.2257563
 			          },
 			          "title": "Opera House",
-			          "description": "The Opera House was built between 1871 and 1875 follwing the plans of austrian architects. The current facade is not the original which was severely damaged by one of the two fires that affected the building. Along with the facade the main hall was also redesigned by romanian architects in the 1920s. Though called Opera House is also hosts the National Theater, The German State Theater and the Hungarian Theater."
+			          "description": "The Opera House was built between 1871 and 1875 follwing the plans of austrian architects. The current facade is not the original which was severely damaged by the two fires that affected the building. Along with the facade the main hall was also redesigned by romanian architects in the 1920s. Though called Opera House is also hosts the National Theater, The German State Theater and the Hungarian Theater."
 			        },
 			        {
 			          "coordinate": {
@@ -541,7 +541,7 @@
 			            "longitude": 21.228773
 			          },
 			          "title": "Saint George Square",
-			          "description": "The square holds its name from the Jesuit Chruch that was there for a long time. The church was there before the otoman rule of the city and it became a mosque during the period. Once the Habsburgs conquered Timisoara it was given to the jesuits. It was precisely its age that determined the austrian architects to demolish it in 1739. In one of the buildings belonging to the church was established the first university in the city in 1845."
+			          "description": "The square holds its name from the Jesuit Chruch that used to be there. The church was there before the otoman rule of the city and it became a mosque during the period. Once the Habsburgs conquered Timisoara it was given to the jesuits. It was precisely its age that determined the austrian architects to demolish it in 1739. In one of the buildings belonging to the church was established the first university in the city in 1845."
 			        },
 			        {
 			          "coordinate": {
@@ -557,7 +557,7 @@
 			            "longitude": 21.228844
 			          },
 			          "title": "Union Square - Union Square",
-			          "description": "Designed in barroque style, it is one of the oldest squares in the city with plans  as old as 1733. The monument in the center of the square is named The Holly Trinity also known as the Plague Column and is meant to remember the Plague that ravished the region in the years 1731-1738"
+			          "description": "Designed in barroque style, it is one of the oldest squares in the city with plans as old as 1733. The monument in the center of the square is named The Holly Trinity, also known as the Plague Column and is meant to remember the Plague that ravished the region in the years 1731-1738"
 			        },
 			          {
 			          "coordinate": {
@@ -565,7 +565,7 @@
 			            "longitude": 21.228840
 			          },
 			          "title": "The Bruck House",
-			          "description": "The Bruck House has been probably the most conspicuous building in the square since 1910. It is the work of the architect László Székely and it features a combination of Art Nuveau, Secession and Hungarian Folk motifs (in the form of the coloured ceramic tiles). On the location of the house a farmacy existed ever since 1828 and at the groud level is is still hosting a farmacy nowadays. The house was restaured in 2012."
+			          "description": "The Bruck House has been probably the most conspicuous building in the square since 1910. It is the work of the architect László Székely and it features a combination of Art Nuveau, Secession and Hungarian Folk motifs (in the form of the coloured ceramic tiles). On the location of the house a farmacy existed ever since 1828 and at the groud level is is still hosting a farmacy nowadays. The house was restored in 2012."
 			        },
 			         {
 			          "coordinate": {
@@ -573,7 +573,7 @@
 			            "longitude": 21.229855
 			          },
 			          "title": "Saint George's Cathedral",
-			          "description": "The roman-catholic cathedral construction lasted for over 20 years between 1736-1774. It was designed in a pure barroque style that is considered to be Timisoara's most expressive architectural achievement in this field. The suspiciously reduced hight of the towers for a cathedral is due to the close proximity of the city fortifications of the time."
+			          "description": "The Roman-Catholic cathedral construction lasted for over 20 years between 1736-1774. It was designed in a pure barroque style that is considered to be Timisoara's most expressive architectural achievement in this field. The suspiciously reduced hight of the towers for a cathedral is due to the close proximity of the city fortifications of the time."
 			        },
 			        {
 			          "coordinate": {
@@ -633,7 +633,7 @@
 				"name":"Mnib",
 				"description":{
 					"a":"Working hours: Monday - closed, Tuesday - Sunday 10.00 - 18.00",
-					"b":"Established in 1877 the museum is now hosted by the Huniade Castle and a part of the former Habsburgic era city fortifications. It hosts various historical exhibitions dating from prehistoric times to Roman era, the Middle Ages and Modern Romania.",
+					"b":"Established in 1877 the museum is now hosted by the Huniade Castle and a part of the former Habsburgic era city fortifications. It hosts various historical exhibitions from prehistoric times to Roman era, the Middle Ages and Modern Romania.",
 					"c":"www.mnab.ro"
 				}
 				},
@@ -659,7 +659,7 @@
 				},
 				"title": "Botanic Park",
 				"name":"BotanicP",
-				"description": "Also known as the botanic garden, is the result of architect's Silvia Grumeza plans. The initial plans were laid down in 1966, however the actual planting begun only later in 1986. It covers 9.8 hectares with a variety of 1650 species of plants and in 1995 was declared to be a scientific reservation."
+				"description": "Also known as the botanic garden, is the result of architect's Silvia Grumeza plans. The plans were laid down in 1966, however the actual planting begun only later in 1986. It covers 9.8 hectares with a variety of 1650 species of plants and in 1995 was declared to be a scientific reservation."
 				},
 				{
 				"coordinate": {
@@ -677,7 +677,7 @@
 				},
 				"title": "Roeses Park - Rosarium",
 				"name":"RosesP",
-				"description": "The park was created in 1881 with the occasion of the Unversal Exhibition. It was designed to resemble an english Garden with a diversity of 1200 varieties of roses. The park was heavily affected by bombings during 1944 and required intensive rework. In 2012 a profound restauration process took place and it was added the cover for the stage."
+				"description": "The park was created in 1881 with the occasion of the Unversal Exhibition. It was designed to resemble an english Garden with a diversity of 1200 varieties of roses. The park was heavily affected by bombings during 1944 and required intensive rework. In 2012 a profound restauration process took place."
 				},
 				{
 				"coordinate": {
