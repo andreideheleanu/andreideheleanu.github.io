@@ -136,7 +136,7 @@
 	      	"type":"hotel",
 	        "name": "Timisoara Hotel",
 	        "adress":"Piata Victoriei 12",
-	        "description":"Phone: 0040 256 498 852",
+	        "description":"Phone: 0040256498852",
 	        "photo":"https://media-cdn.tripadvisor.com/media/photo-s/05/9b/5b/6d/main-entrance.jpg",
 	        "map":"show on map location",
 	        "link":"https://www.hoteltimisoara.ro"
@@ -145,7 +145,7 @@
 	      	"type":"hotel",
 	        "name": "North Star Continental Resort",
 	        "adress":"Bulevardul Revolutiei 4",
-	        "description":"Phone: 0040 256 302 200",
+	        "description":"Phone: 0040256302200",
 	        "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Hotel_Continental_Timisoara.jpg/100px-Hotel_Continental_Timisoara.jpg",
 	        "map":"show on map location",
 	        "link":"https://www.hotelcontinental.ro"
@@ -154,7 +154,7 @@
 	      	"type":"hotel",
 	        "name": "Apart Hotel Iosefin Residence",
 	        "adress":"Piata Mocsonyi 8",
-	        "description":"Phone: 0040 755 445 544",
+	        "description":"Phone: 0040755445544",
 	        "photo":"https://media-cdn.tripadvisor.com/media/photo-o/01/7b/92/b9/aparthotel-iosefin-residence.jpg",
 	        "map":"show on map location",
 	        "link":"http://iosefinresidence.ro/en/"
@@ -163,7 +163,7 @@
 	      	"type":"hotel",
 	        "name": "Boutique Hotel Casa del Sole",
 	        "adress":"Strada Romulus 12",
-	        "description":"Phone: 0040 356 457 771",
+	        "description":"Phone: 0040356457771",
 	        "photo":"https://hotel.casadelsole.ro/wp-content/uploads/sites/6/2018/03/slider-main1.png",
 	        "map":"show on map location",
 	        "link":"https://hotel.casadelsole.ro/"
@@ -1300,7 +1300,7 @@
 	      	"type":"hotel",
 	        "name": "Apart Hotel Iosefin Residence",
 	        "adress":"Piata Mocsonyi nr.8",
-	        "description":"Telefon: 0040 755 445 544",
+	        "description":"Telefon: 0040755445544",
 	        "photo":"https://media-cdn.tripadvisor.com/media/photo-o/01/7b/92/b9/aparthotel-iosefin-residence.jpg",
 	        "map":"show on map location",
 	        "link":"http://iosefinresidence.ro/en/"
