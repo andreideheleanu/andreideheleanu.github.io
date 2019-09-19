@@ -201,7 +201,7 @@
 	      	"type":"hospital",
 	        "name": "County Emergency Clinical Hospital",
 	        "adress":"Liviu Rebreanu 156",
-	        "description":"Phone: +4-0356-433111",
+	        "description":"Phone: 0040356433111",
 	        "photo":"https://www.hosptm.ro/wp-content/uploads/2015/05/SCJUPBT_01.jpg",
 	        "map":"show on map location",
 	        "link":"https://www.hosptm.ro/"
@@ -210,7 +210,7 @@
 	      	"type":"hospital",
 	        "name": "Municipal Clinical Hospital Timisoara",
 	        "adress":"Gheorghe Dima 5",
-	        "description":"Phone: +4-0256-200.048",
+	        "description":"Phone: 0040256200048",
 	        "photo":"https://renasterea.ro/ro/wp-content/uploads/Spitalul-Municipal-Timisoara-781x460.jpg",
 	        "map":"show on map location",
 	        "link":"https://www.spitalul-municipal-timisoara.ro"
@@ -219,7 +219,7 @@
 	      	"type":"fit",
 	        "name": "Hercules Gym",
 	        "adress":"Pestalozzi 20A",
-	        "description":"Phone: 0765079102",
+	        "description":"Phone: 0040765079102",
 	        "photo":"http://www.fitnesstimisoara.ro/wp-content/uploads/2017/04/hercules1-300x199.jpg",
 	        "map":"show on map location",
 	        "link":"https://www.facebook.com/Hercules-Gym-546386958805232/"
@@ -228,7 +228,7 @@
 	      	"type":"fit",
 	        "name": "Banu Sport",
 	        "adress":"FC Ripensia 33",
-	        "description":"Phone: 0256-220642",
+	        "description":"Phone: 0040256220642",
 	        "photo":"http://www.fitnesstimisoara.ro/wp-content/uploads/2013/02/banu3-300x225.jpeg",
 	        "map":"show on map location",
 	        "link":"http://www.banusport.ro/"
@@ -237,7 +237,7 @@
 	      	"type":"fit",
 	        "name": "Iguana Fitness Club",
 	        "adress":"Ranetti 28, 3rd floor",
-	        "description":"Phone: 0737777337",
+	        "description":"Phone: 0040737777337",
 	        "photo":"http://www.fitnesstimisoara.ro/wp-content/uploads/2013/02/iguana21-300x225.jpg",
 	        "map":"show on map location",
 	        "link":"https://www.facebook.com/Iguana-Fitness-Club-Timisoara-244225049012665/"
@@ -246,7 +246,7 @@
 	      	"type":"dental",
 	        "name": "Doctor Stoma",
 	        "adress":"Coriolan Brediceanu 1A, Ap.4",
-	        "description":"Phone: +40 722 997 662",
+	        "description":"Phone: 0040722997662",
 	        "photo":"https://www.doctorstoma.ro/wp-content/uploads/2018/11/implant-candidate-min-925x425-900x300.jpg",
 	        "map":"show on map location",
 	        "link":"https://www.doctorstoma.ro"
@@ -255,7 +255,7 @@
 	      	"type":"dental",
 	        "name": "GM Clinic",
 	        "adress":"Dambovita 10",
-	        "description":"Phone: 0256240204",
+	        "description":"Phone: 0040256240204",
 	        "photo":"http://gmclinic.ro/wp-content/uploads/2016/03/GM-Clinic-556x325.jpg",
 	        "map":"show on map location",
 	        "link":"http://gmclinic.ro/"
@@ -264,7 +264,7 @@
 	      	"type":"dental",
 	        "name": "Beatrice Ditrich",
 	        "adress":"Badea Cârţan 7, Ap. 3D",
-	        "description":"Phone: +40744323055",
+	        "description":"Phone: 0040744323055",
 	        "photo":"https://www.beatricedent.ro/img/general/servicii/consultatie-si-tratament.jpg",
 	        "map":"show on map location",
 	        "link":"https://www.beatricedent.ro/"
@@ -273,7 +273,7 @@
 	      	"type":"optics",
 	        "name": "Medical Center Vista",
 	        "adress":"Romulus 41",
-	        "description":"Phone: 0256292295",
+	        "description":"Phone: 0040256292295",
 	        "photo":"http://www.clinica-vista.ro/img/img_clinica-vista.jpg",
 	        "map":"show on map location",
 	        "link":"http://www.clinica-vista.ro/"
@@ -282,7 +282,7 @@
 	      	"type":"optics",
 	        "name": "Optica Eugen",
 	        "adress":"Gh. Lazar 2",
-	        "description":"Phone: 025623230",
+	        "description":"Phone: 004025623230",
 	        "photo":"https://www.opticaeugen.ro/wp-content/uploads/2017/10/logo-mare-s-300x203.png",
 	        "map":"show on map location",
 	        "link":"https://www.opticaeugen.ro"
@@ -291,7 +291,7 @@
 	      	"type":"privateClinic",
 	        "name": "Centrul Medica Klass",
 	        "adress":"Piata Axente Sever 2 ",
-	        "description":"Phone: 0256489789",
+	        "description":"Phone: 0040256489789",
 	        "photo":"http://centrulklass.ro/wp-content/uploads/2016/01/cardiologie-1.jpg",
 	        "map":"show on map location",
 	        "link":"http://centrulklass.ro/"
@@ -300,7 +300,7 @@
 	      	"type":"privateClinic",
 	        "name": "Neuromed Timisoara",
 	        "adress":"16 Decembrie 1989, nr. 43",
-	        "description":"Phone: 0256.292.637",
+	        "description":"Phone: 0040256292637",
 	        "photo":"https://www.neuromed.ro/img/slider/6.png",
 	        "map":"show on map location",
 	        "link":"https://www.neuromed.ro"
@@ -311,7 +311,7 @@
 		      	"type":"local",
 		        "name": "Timisoara City Hall",
 		        "adress":"C. D. Loga 5",
-		        "description":"Phone: 0256408300",
+		        "description":"Phone: 0040256408300",
 		        "photo":"https://www.primariatm.ro/uploads/images/Portal/localizare/cladire%20PMT_net.jpg",
 		        "map":"show on map location",
 		        "link":"https://www.primariatm.ro"
@@ -320,7 +320,7 @@
 		      	"type":"local",
 		        "name": "Timis County Council",
 		        "adress":"Bd. Revoluţiei din 1989 No.17",
-		        "description":"Phone: 0256406406",
+		        "description":"Phone: 0040256406406",
 		        "photo":"http://www.cjtimis.ro/gallery/50e7a166-0342-42b2-9831-a44a211a749e/87de5e84-e3dd-44e0-bec9-160ffc4e3c9e/head-full-6/head-full-6.jpg",
 		        "map":"show on map location",
 		        "link":"http://www.cjtimis.ro/"
@@ -329,7 +329,7 @@
 		      	"type":"embassy",
 		        "name": "German Consulate Timisoara",
 		        "adress":"Tudor Vladimirescu 10",
-		        "description":"Phone: +40 256 309800",
+		        "description":"Phone: 0040256309800",
 		        "photo":"https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/125px-Flag_of_Germany.svg.png",
 		        "link":"https://rumaenien.diplo.de/ro-de/vertretungen/generalkonsulat2"
 		      	},
@@ -337,7 +337,7 @@
 		      	"type":"embassy",
 		        "name": "Honorary Consulate of France",
 		        "adress":"Coriolan Brediceanu 10",
-		        "description":"Phone: +40256294005",
+		        "description":"Phone: 0040256294005",
 		        "photo":"https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/125px-Flag_of_France.svg.png",
 		        "map":"show on map location",
 		        "link":"https://ro.ambafrance.org/Sectia-Consulara-si-Serviciul-de-Vize-Consulate-onorifice"
@@ -346,7 +346,7 @@
 		      	"type":"embassy",
 		        "name": "Honorary Consulate of Italy",
 		        "adress":"3 August 1919, No 2",
-		        "description":"Phone: +40 756 056 566",
+		        "description":"Phone: 0040756056566",
 		        "photo":"https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/125px-Flag_of_Italy.svg.png",
 		        "link":"https://ro-ro.facebook.com/ConsolatoOnorarioTimisoara"
 		      	},
@@ -354,7 +354,7 @@
 		      	"type":"embassy",
 		        "name": "Consulate General of Serbia",
 		        "adress":"Remus 4",
-		        "description":"Phone: +40256490334",
+		        "description":"Phone: 0040256490334",
 		        "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/320px-Flag_of_Serbia.svg.png",
 		        "link":"https://www.mae.ro/en/foreign-missions/3613"
 		      	},
@@ -362,7 +362,7 @@
 		      	"type":"urgent",
 		        "name": "Environment Agency",
 		        "adress":" Carei 9D",
-		        "description":"Phone: 0256219892",
+		        "description":"Phone: 0040256219892",
 		        "photo":"https://www.romaniaecologica.ro/images/stiri/Garda_Na%C8%9Bional%C4%83_de_Mediu/GNM.jpg",
 		        "map":"show on map location",
 		        "link":"https://gnm.ro/index.php"
@@ -371,7 +371,7 @@
 		      	"type":"urgent",
 		        "name": "Consumer Protection",
 		        "adress":"Piaţa Unirii 3",
-		        "description":"Phone: 0356422001, 0256422790",
+		        "description":"Phone: 0040356422001, 0040256422790",
 		        "photo":"https://renasterea.ro/ro/wp-content/uploads/OPC-Timis-732x460.jpg",
 		        "map":"show on map location",
 		        "link":"http://www.anpc.gov.ro/"
@@ -382,7 +382,7 @@
 		      	"type":"restaurant",
 		        "name": "Valahia",
 		        "adress":"Blv. Liviu Rebreanu, nr.52",
-		        "description":"Phone: 0040 256 486 104",
+		        "description":"Phone: 0040256486104",
 		        "photo":"https://media-cdn.tripadvisor.com/media/photo-s/12/1e/1d/83/photo8jpg.jpg",
 		        "map":"show on map location",
 		        "link":"/http://www.restaurant-valahia.ro"
@@ -391,7 +391,7 @@
 		      	"type":"restaurant",
 		        "name": "Lloyd",
 		        "adress":"Piata Victoriei, nr. 2",
-		        "description":"Phone: 0040 744 557 151",
+		        "description":"Phone: 0040744557151",
 		        "photo":"https://www.banatulazi.ro/wp-content/uploads/2018/01/restaurant-lloyd5.jpg",
 		        "map":"show on map location",
 		        "link":"https://restaurant-lloyd.ro"
@@ -400,7 +400,7 @@
 		      	"type":"restaurant",
 		        "name": "Pepper",
 		        "adress":"Piata Unirii nr 13, Near Catholic Dome",
-		        "description":"Phone: 0040 720 408 250",
+		        "description":"Phone: 0040720408250",
 		        "photo":"https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/56175003_729264160825871_898077992306081792_n.jpg?_nc_cat=101&_nc_oc=AQlEU29wBqYQb4MTfzgAvuK0-Lcw139nFB8A12lkZR8nbeYPGhMKw1YKVGxxSy2tLSc&_nc_ht=scontent-amt2-1.xx&oh=9b3d6c2d54df4f15ff8b2d0593d796af&oe=5DEADF65",
 		        "link":"https://www.facebook.com/peppertimisoara/"
 		      	},
@@ -408,7 +408,7 @@
 		      	"type":"restaurant",
 		        "name": "Vinto",
 		        "adress":"Florimund Mercy 4",
-		        "description":"Phone: 0040 755 080 028",
+		        "description":"Phone: 0040755080028",
 		        "photo":"http://vinto.ro/wp-content/uploads/2014/07/Vinto-4-845x684.jpg",
 		        "link":"http://vinto.ro"
 		       },
@@ -424,7 +424,7 @@
 		      	"type":"restaurant",
 		        "name": "Sabres",
 		        "adress":"Craiova 1",
-		        "description":"Phone: 0040 756 722 737",
+		        "description":"Phone: 0040756722737",
 		        "photo":"http://sabres.ro/assets/galleries/6/36599921_1750122205070834_1075480388106715136_n.jpg",
 		        "link":"http://sabres.ro/en/index.php?id=1"
 		       }
@@ -1282,7 +1282,7 @@
 	      	"type":"hotel",
 	        "name": "Timisoara Hotel",
 	        "adress":"Piata Victoriei, nr.12",
-	        "description":"Telefon: 0040 256 498 852",
+	        "description":"Telefon: 0040256498852",
 	        "photo":"https://media-cdn.tripadvisor.com/media/photo-s/05/9b/5b/6d/main-entrance.jpg",
 	        "map":"show on map location",
 	        "link":"https://www.hoteltimisoara.ro"
@@ -1291,7 +1291,7 @@
 	      	"type":"hotel",
 	        "name": "North Star Continental Resort",
 	        "adress":"Blv. Revolutiei, nr. 4",
-	        "description":"Telefon: 0040 256 302 200",
+	        "description":"Telefon: 0040256302200",
 	        "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Hotel_Continental_Timisoara.jpg/100px-Hotel_Continental_Timisoara.jpg",
 	        "map":"show on map location",
 	        "link":"https://www.hotelcontinental.ro"
@@ -1309,7 +1309,7 @@
 	      	"type":"hotel",
 	        "name": "Boutique Hotel Casa del Sole",
 	        "adress":"Strada Romulus Nr. 12",
-	        "description":"Telefon: 0040 356 457 771",
+	        "description":"Telefon: 0040356457771",
 	        "photo":"https://hotel.casadelsole.ro/wp-content/uploads/sites/6/2018/03/slider-main1.png",
 	        "map":"show on map location",
 	        "link":"https://hotel.casadelsole.ro/"
@@ -1347,7 +1347,7 @@
 	      	"type":"hospital",
 	        "name": "Spitalul Clinic Judetean de Urgenta",
 	        "adress":"Liviu Rebreanu 156",
-	        "description":"Telefon: +4-0356-433111",
+	        "description":"Telefon: 0040356433111",
 	        "photo":"https://www.hosptm.ro/wp-content/uploads/2015/05/SCJUPBT_01.jpg",
 	        "map":"show on map location",
 	        "link":"https://www.hosptm.ro/"
@@ -1356,7 +1356,7 @@
 	      	"type":"hospital",
 	        "name": "Spitalul Clinic Municipal Timisoara",
 	        "adress":"Gheorghe Dima 5",
-	        "description":"Telefon: +4-0256-200.048",
+	        "description":"Telefon: 0040256200048",
 	        "photo":"https://renasterea.ro/ro/wp-content/uploads/Spitalul-Municipal-Timisoara-781x460.jpg",
 	        "map":"show on map location",
 	        "link":"https://www.spitalul-municipal-timisoara.ro"
@@ -1365,7 +1365,7 @@
 	      	"type":"fit",
 	        "name": "Hercules Gym",
 	        "adress":"Pestalozzi 20A",
-	        "description":"Telefon: 0765079102",
+	        "description":"Telefon: 0040765079102",
 	        "photo":"http://www.fitnesstimisoara.ro/wp-content/uploads/2017/04/hercules1-300x199.jpg",
 	        "map":"show on map location",
 	        "link":"https://www.facebook.com/Hercules-Gym-546386958805232/"
@@ -1374,7 +1374,7 @@
 	      	"type":"fit",
 	        "name": "Banu Sport",
 	        "adress":"FC Ripensia 33",
-	        "description":"Telefon: 0256-220642",
+	        "description":"Telefon: 0040256220642",
 	        "photo":"http://www.fitnesstimisoara.ro/wp-content/uploads/2013/02/banu3-300x225.jpeg",
 	        "map":"show on map location",
 	        "link":"http://www.banusport.ro/"
@@ -1383,7 +1383,7 @@
 	      	"type":"fit",
 	        "name": "Iguana Fitness Club",
 	        "adress":"Ranetti nr. 28 et. 3",
-	        "description":"Telefon: 0737777337",
+	        "description":"Telefon: 0040737777337",
 	        "photo":"http://www.fitnesstimisoara.ro/wp-content/uploads/2013/02/iguana21-300x225.jpg",
 	        "map":"show on map location",
 	        "link":"https://www.facebook.com/Iguana-Fitness-Club-Timisoara-244225049012665/"
@@ -1392,7 +1392,7 @@
 	      	"type":"dental",
 	        "name": "Doctor Stoma",
 	        "adress":"Coriolan Brediceanu 1A, Ap.4",
-	        "description":"Telefon: +40722997662",
+	        "description":"Telefon: 0040722997662",
 	        "photo":"https://www.doctorstoma.ro/wp-content/uploads/2018/11/implant-candidate-min-925x425-900x300.jpg",
 	        "map":"show on map location",
 	        "link":"https://www.doctorstoma.ro"
@@ -1401,7 +1401,7 @@
 	      	"type":"dental",
 	        "name": "GM Clinic",
 	        "adress":"Dambovita 10",
-	        "description":"Telefon: 0256240204",
+	        "description":"Telefon: 0040256240204",
 	        "photo":"http://gmclinic.ro/wp-content/uploads/2016/03/GM-Clinic-556x325.jpg",
 	        "map":"show on map location",
 	        "link":"http://gmclinic.ro/"
@@ -1410,7 +1410,7 @@
 	      	"type":"dental",
 	        "name": "Beatrice Ditrich",
 	        "adress":"Badea Cârţan 7, Ap. 3D",
-	        "description":"Telefon: +40744323055",
+	        "description":"Telefon: 0040744323055",
 	        "photo":"https://www.beatricedent.ro/img/general/servicii/consultatie-si-tratament.jpg",
 	        "map":"show on map location",
 	        "link":"https://www.beatricedent.ro/"
@@ -1419,7 +1419,7 @@
 	      	"type":"optics",
 	        "name": "Optica Eugen",
 	        "adress":"Gh. Lazar 2",
-	        "description":"Telefon: 025623230",
+	        "description":"Telefon: 004025623230",
 	        "photo":"https://www.opticaeugen.ro/wp-content/uploads/2017/10/logo-mare-s-300x203.png",
 	        "map":"show on map location",
 	        "link":"https://www.opticaeugen.ro"
@@ -1428,7 +1428,7 @@
 	      	"type":"optics",
 	        "name": "Centrul Medical Vista",
 	        "adress":"Romulus 41",
-	        "description":"Telefon: 0256292295",
+	        "description":"Telefon: 0040256292295",
 	        "photo":"http://www.clinica-vista.ro/img/img_clinica-vista.jpg",
 	        "map":"show on map location",
 	        "link":"http://www.clinica-vista.ro/"
@@ -1437,7 +1437,7 @@
 	      	"type":"privateClinic",
 	        "name": "Centrul Medica Klass",
 	        "adress":"Piata Axente Sever 2 ",
-	        "description":"Telefon: 0256489789",
+	        "description":"Telefon: 0040256489789",
 	        "photo":"http://centrulklass.ro/wp-content/uploads/2016/01/cardiologie-1.jpg",
 	        "map":"show on map location",
 	        "link":"http://centrulklass.ro/"
@@ -1446,7 +1446,7 @@
 	      	"type":"privateClinic",
 	        "name": "Neuromed Timisoara",
 	        "adress":"16 Decembrie 1989, nr. 43",
-	        "description":"Telefon: 0256.292.637",
+	        "description":"Telefon: 0040256292637",
 	        "photo":"https://www.neuromed.ro/img/slider/6.png",
 	        "map":"show on map location",
 	        "link":"https://www.neuromed.ro"
@@ -1457,7 +1457,7 @@
 		      	"type":"local",
 		        "name": "Primaria Municipiului Timisoara",
 		        "adress":"C. D. Loga 5",
-		        "description":"Telefon: 0256408300",
+		        "description":"Telefon: 0040256408300",
 		        "photo":"https://www.primariatm.ro/uploads/images/Portal/localizare/cladire%20PMT_net.jpg",
 		        "map":"show on map location",
 		        "link":"https://www.primariatm.ro"
@@ -1466,7 +1466,7 @@
 		      	"type":"local",
 		        "name": "Timis County Council",
 		        "adress":"Bd. Revoluţiei din 1989 No.17",
-		        "description":"Telefon: 0256406406",
+		        "description":"Telefon: 0040256406406",
 		        "photo":"http://www.cjtimis.ro/gallery/50e7a166-0342-42b2-9831-a44a211a749e/87de5e84-e3dd-44e0-bec9-160ffc4e3c9e/head-full-6/head-full-6.jpg",
 		        "map":"show on map location",
 		        "link":"http://www.cjtimis.ro/"
@@ -1475,7 +1475,7 @@
 		      	"type":"embassy",
 		        "name": "Consulatul Germaniei la Timisoara",
 		        "adress":"Tudor Vladimirescu 10",
-		        "description":"Telefon: +40 256 309800",
+		        "description":"Telefon: 0040256309800",
 		        "photo":"https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/125px-Flag_of_Germany.svg.png",
 		        "link":"https://rumaenien.diplo.de/ro-de/vertretungen/generalkonsulat2"
 		      	},
@@ -1483,7 +1483,7 @@
 		      	"type":"embassy",
 		        "name": "Consulatul Onorific al Frantei",
 		        "adress":"City Business Centre D, Coriolan Brediceanu 10 ",
-		        "description":"Telefon: +40256294005",
+		        "description":"Telefon: 0040256294005",
 		        "photo":"https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/125px-Flag_of_France.svg.png",
 		        "map":"show on map location",
 		        "link":"https://ro.ambafrance.org/Sectia-Consulara-si-Serviciul-de-Vize-Consulate-onorifice"
@@ -1492,7 +1492,7 @@
 		      	"type":"embassy",
 		        "name": "Consulatul Onorific al Italiei",
 		        "adress":"3 August 1919, No 2",
-		        "description":"Telefon: +40 756 056 566",
+		        "description":"Telefon: 0040756056566",
 		        "photo":"https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/125px-Flag_of_Italy.svg.png",
 		        "link":"https://ro-ro.facebook.com/ConsolatoOnorarioTimisoara"
 		      	},
@@ -1500,7 +1500,7 @@
 		      	"type":"embassy",
 		        "name": "Consulatul General al Serbiei",
 		        "adress":"Remus 4",
-		        "description":"Telefon: +40256490334",
+		        "description":"Telefon: 0040256490334",
 		        "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/320px-Flag_of_Serbia.svg.png",
 		        "link":"https://www.mae.ro/en/foreign-missions/3613"
 		      	},
@@ -1508,7 +1508,7 @@
 		      	"type":"urgent",
 		        "name": "Garda de Mediu",
 		        "adress":" Carei 9D",
-		        "description":"Telefon: 0256219892",
+		        "description":"Telefon: 0040256219892",
 		        "photo":"https://www.romaniaecologica.ro/images/stiri/Garda_Na%C8%9Bional%C4%83_de_Mediu/GNM.jpg",
 		        "map":"show on map location",
 		        "link":"https://gnm.ro/index.php"
@@ -1517,7 +1517,7 @@
 		      	"type":"urgent",
 		        "name": "Protectia Consumatorilor",
 		        "adress":"Piaţa Unirii 3",
-		        "description":"Telefon: 0356422001, 0256422790",
+		        "description":"Telefon: 0040356422001, 0040256422790",
 		        "photo":"https://renasterea.ro/ro/wp-content/uploads/OPC-Timis-732x460.jpg",
 		        "map":"show on map location",
 		        "link":"http://www.anpc.gov.ro/"
@@ -1527,7 +1527,7 @@
 		      	"type":"restaurant",
 		        "name": "Valahia",
 		        "adress":"Blv. Liviu Rebreanu, nr.52",
-		        "description":"Telefon: 0040 256 486 104",
+		        "description":"Telefon: 0040256486104",
 		        "photo":"https://media-cdn.tripadvisor.com/media/photo-s/12/1e/1d/83/photo8jpg.jpg",
 		        "map":"show on map location",
 		        "link":"/http://www.restaurant-valahia.ro"
@@ -1536,7 +1536,7 @@
 		      	"type":"restaurant",
 		        "name": "Lloyd",
 		        "adress":"Piata Victoriei, nr. 2",
-		        "description":"Telefon: 0040 744 557 151",
+		        "description":"Telefon: 0040744557151",
 		        "photo":"https://www.banatulazi.ro/wp-content/uploads/2018/01/restaurant-lloyd5.jpg",
 		        "map":"show on map location",
 		        "link":"https://restaurant-lloyd.ro"
@@ -1545,7 +1545,7 @@
 		      	"type":"restaurant",
 		        "name": "Pepper",
 		        "adress":"Piata Unirii nr 13, Near Catholic Dome",
-		        "description":"Telefon: 0040 720 408 250",
+		        "description":"Telefon: 0040720408250",
 		        "photo":"https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/56175003_729264160825871_898077992306081792_n.jpg?_nc_cat=101&_nc_oc=AQlEU29wBqYQb4MTfzgAvuK0-Lcw139nFB8A12lkZR8nbeYPGhMKw1YKVGxxSy2tLSc&_nc_ht=scontent-amt2-1.xx&oh=9b3d6c2d54df4f15ff8b2d0593d796af&oe=5DEADF65",
 		        "link":"https://www.facebook.com/peppertimisoara/"
 		      	},
@@ -1553,7 +1553,7 @@
 		      	"type":"restaurant",
 		        "name": "Vinto",
 		        "adress":"Florimund Mercy 4",
-		        "description":"Telefon: 0040 755 080 028",
+		        "description":"Telefon: 0040755080028",
 		        "photo":"http://vinto.ro/wp-content/uploads/2014/07/Vinto-4-845x684.jpg",
 		        "link":"http://vinto.ro"
 		       },
@@ -1561,7 +1561,7 @@
 		      	"type":"restaurant",
 		        "name": "Grill to Chill",
 		        "adress":"Eugeniu de Savoya",
-		        "description":"Telefon: 0040 755 111 797",
+		        "description":"Telefon: 0040755111797",
 		        "photo":"http://grilltochill.ro/grilltochill/images/others/sp1.jpg",
 		        "link":"http://grilltochill.ro/grilltochill/index2.html"
 		       },
@@ -1569,7 +1569,7 @@
 		      	"type":"restaurant",
 		        "name": "Sabres",
 		        "adress":"Craiova 1",
-		        "description":"Telefon: 0040 756 722 737",
+		        "description":"Telefon: 0040756722737",
 		        "photo":"http://sabres.ro/assets/galleries/6/36599921_1750122205070834_1075480388106715136_n.jpg",
 		        "link":"http://sabres.ro/en/index.php?id=1"
 		       }
