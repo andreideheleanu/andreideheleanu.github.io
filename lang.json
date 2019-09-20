@@ -105,12 +105,12 @@
 		},
 		{
 	      	"type":"mall",
-	        "name": "Iulius Mall Timisoara",
+	        "name": "Iulius Town Timisoara",
 	        "adress":"Piața Consiliul Europei 2",
 	        "description":"Program: zilnic 10:00 – 22:00",
 	        "photo":"https://media-cdn.tripadvisor.com/media/photo-s/06/e8/a4/a1/iulius-mall.jpg",
 	        "map":"show on map location",
-	        "link":"https://www.iuliusmall.com/timisoara"
+	        "link":"https://www.iuliustown.ro"
 		},
 		{
 	      	"type":"hyper",
@@ -119,7 +119,7 @@
 	        "description":"Working hours: daily 10:00 – 22:00",
 	        "photo":"http://iuliusmall.com/timisoara/wp-content/plugins/uber-grid/timthumb.php?src=http%3A%2F%2Fiuliusmall.com%2Ftimisoara%2Fwp-content%2Fuploads%2F2016%2F09%2FAUCHAN_SITE-1.jpg&w=280&h=280&zc=1",
 	        "map":"show on map location",
-	        "link":"https://www.iuliusmall.com/timisoara"
+	        "link":"https://iuliustown.ro/ro/magazine/auchan"
 		},
 		{
 	      	"type":"hyper",
@@ -171,7 +171,7 @@
 	      {
 	      	"type":"hotel",
 	        "name": "Check Inn Hotel",
-	        "adress":"Strada Miorita 11 - 13",
+	        "adress":"Strada Miorita 11-13",
 	        "description":"Check Inn Hotel is a holiday resort with business and leisure services.",
 	        "photo":"https://media-cdn.tripadvisor.com/media/photo-o/16/c3/da/3d/exterior.jpg",
 	        "map":"show on map location",
@@ -289,7 +289,7 @@
 	      	},
 			{
 	      	"type":"privateClinic",
-	        "name": "Centrul Medica Klass",
+	        "name": "Centrul Medical Klass",
 	        "adress":"Piata Axente Sever 2 ",
 	        "description":"Phone: 0040256489789",
 	        "photo":"http://centrulklass.ro/wp-content/uploads/2016/01/cardiologie-1.jpg",
@@ -319,7 +319,7 @@
 		       {
 		      	"type":"local",
 		        "name": "Timis County Council",
-		        "adress":"Bd. Revoluţiei din 1989 No.17",
+		        "adress":"Bd. Revoluţiei din 1989 Nr.17",
 		        "description":"Phone: 0040256406406",
 		        "photo":"http://www.cjtimis.ro/gallery/50e7a166-0342-42b2-9831-a44a211a749e/87de5e84-e3dd-44e0-bec9-160ffc4e3c9e/head-full-6/head-full-6.jpg",
 		        "map":"show on map location",
@@ -381,7 +381,7 @@
 		      {
 		      	"type":"restaurant",
 		        "name": "Valahia",
-		        "adress":"Blv. Liviu Rebreanu, nr.52",
+		        "adress":"Liviu Rebreanu 52",
 		        "description":"Phone: 0040256486104",
 		        "photo":"https://media-cdn.tripadvisor.com/media/photo-s/12/1e/1d/83/photo8jpg.jpg",
 		        "map":"show on map location",
@@ -390,7 +390,7 @@
 		      {
 		      	"type":"restaurant",
 		        "name": "Lloyd",
-		        "adress":"Piata Victoriei, nr. 2",
+		        "adress":"Piata Victoriei 2",
 		        "description":"Phone: 0040744557151",
 		        "photo":"https://www.banatulazi.ro/wp-content/uploads/2018/01/restaurant-lloyd5.jpg",
 		        "map":"show on map location",
@@ -399,7 +399,7 @@
 		      {
 		      	"type":"restaurant",
 		        "name": "Pepper",
-		        "adress":"Piata Unirii nr 13, Near Catholic Dome",
+		        "adress":"Piata Unirii 13",
 		        "description":"Phone: 0040720408250",
 		        "photo":"https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/56175003_729264160825871_898077992306081792_n.jpg?_nc_cat=101&_nc_oc=AQlEU29wBqYQb4MTfzgAvuK0-Lcw139nFB8A12lkZR8nbeYPGhMKw1YKVGxxSy2tLSc&_nc_ht=scontent-amt2-1.xx&oh=9b3d6c2d54df4f15ff8b2d0593d796af&oe=5DEADF65",
 		        "link":"https://www.facebook.com/peppertimisoara/"
@@ -416,7 +416,7 @@
 		      	"type":"restaurant",
 		        "name": "Grill to Chill",
 		        "adress":"Eugeniu de Savoya",
-		        "description":"Phone: 0040 755 111 797",
+		        "description":"Phone: 0040755111797",
 		        "photo":"http://grilltochill.ro/grilltochill/images/others/sp1.jpg",
 		        "link":"http://grilltochill.ro/grilltochill/index2.html"
 		       },
@@ -517,7 +517,7 @@
 			          },
 			          "title": "Timișoara Orthodox Cathedral",
 			          "name":"Cathedral",
-					  "description": "Built between 1936 and 1941 in Neo-Moldavian and Byznatine style, it has 11 towers with the highest reaching 90.5 meters. The work on the paintings lasted until 1956. The cathedral has an estimated capacity of 5000 people. The massive bells weigh roughly 8 tonns."
+					  "description": "The Cathedral was built between 1936 and 1941 in Neo-Moldavian and Byznatine style. It has 11 towers with the highest one reaching 90.5 meters hosting the massive bells that weigh roughly 8 tonns. The work on the paintings could not be finished once with the building itself and lasted until 1956. The cathedral has an estimated capacity of 5000 people."
 			        },
 			        {
 			          "coordinate": {
@@ -533,7 +533,7 @@
 			            "longitude": 21.2257563
 			          },
 			          "title": "Opera House",
-			          "description": "The Opera House was built between 1871 and 1875 follwing the plans of austrian architects. The current facade is not the original which was severely damaged by the two fires that affected the building. Along with the facade the main hall was also redesigned by romanian architects in the 1920s. Though called Opera House is also hosts the National Theater, The German State Theater and the Hungarian Theater."
+			          "description": "The Opera House was built between 1871 and 1875 follwing the plans of austrian architects. The current facade is not the original which was severely damaged by the two fires that affected the building. The destructions caused by fire determined the facade and the main hall to be redesigned by romanian architects in the 1920s. Though called Opera House, the building also hosts the National Theater, The German State Theater and the Hungarian Theater."
 			        },
 			        {
 			          "coordinate": {
