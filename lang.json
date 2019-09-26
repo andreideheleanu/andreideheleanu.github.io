@@ -659,7 +659,7 @@
 				},
 				"title": "Botanic Park",
 				"name":"BotanicP",
-				"description": "Also known as the botanic garden, is the result of architect's Silvia Grumeza plans. The plans were laid down in 1966, however the actual planting begun only later in 1986. It covers 9.8 hectares with a variety of 1650 species of plants and in 1995 was declared to be a scientific reservation."
+				"description": "Known as the botanic garden, it is the result of architect's Silvia Grumeza ideas. The plans were first laid down in 1966, however the actual work begun only later, in 1986. It covers a surface of 9.8 hectares with a variety of 1650 species of plants and in 1995 was declared to be a scientific reservation."
 				},
 				{
 				"coordinate": {
@@ -668,7 +668,7 @@
 				},
 				"title": "Anton Scudier Central Park",
 				"name":"CentralP",
-				"description": "It is named after general Anton von Scudier, military commander of Timisoara, the one that decided to create the park in 1880. Timisoara has been for most of its history a heavily fortified city but the thechnical advances in artillery made these fortifications useless. By demolishing the fortifications in 1872 significant amounts of space were made available for the city administration. As a gruesome detail, on a part of the park used to be cemetary for the victims of the 1738–1739 plague epidemic, the remains were moved in another cemetary."
+				"description": "It is named after general Anton von Scudier, military commander of Timisoara and the one that decided to create the park in 1880. Timisoara has been for most of its history a heavily fortified city but the thechnical advances in artillery made these fortifications useless. By demolishing the fortifications in 1872 significant amounts of space were made available for the city administration. As a gruesome detail, a part of the park used to be cemetary for the victims of the 1738–1739 plague epidemic. The remains were moved in another cemetary once the decision to build a park there was made."
 				},
 				{
 				"coordinate": {
@@ -677,7 +677,7 @@
 				},
 				"title": "Roeses Park - Rosarium",
 				"name":"RosesP",
-				"description": "The park was created in 1881 with the occasion of the Unversal Exhibition. It was designed to resemble an english Garden with a diversity of 1200 varieties of roses. The park was heavily affected by bombings during 1944 and required intensive rework. In 2012 a profound restauration process took place."
+				"description": "The park was created in 1881 with the occasion of the Universal Exhibition. It was designed to resemble an English garden with a diversity of 1200 varieties of roses. The park was heavily damaged by bombings during 1944 and required intensive rework. In 2012 it was the subejct of a new restauration process."
 				},
 				{
 				"coordinate": {
@@ -686,7 +686,7 @@
 				},
 				"title": "Children's Park",
 				"name": "ChildrenP",
-				"description": "Work on this park begun in 1858 but it took many years till it was finished in 1891. Initially it was named Franz Joseph Park and it only became a children dedicated park in 1950. In the period 1944-1955 soviet military units were stationed here, which led to significant damage. The current look is the result of the 2011 upgrade."
+				"description": "Work on this park begun in 1858 but it took many years to finish, in 1891. Initially it was named Franz Joseph Park and it only became a children dedicated park in the '50s. In the period 1944-1955 soviet military units were stationed here, which led to significant damage. The current look is the result of the 2011 upgrade."
 				}
 	        ],
 	        "spirit":[
@@ -697,7 +697,7 @@
 					},
 					"title": "Timișoara Orthodox Cathedral",
 					"name":"Cathedral",
-					"description": "Built between 1936 and 1941 in Neo-Moldavian and Byznatine style it has 11 towers with the highest reaching 90.5 meters. The paintings were finished in 1956 and it has an estimated capacity of 5000 people. The massive bells weigh roughly 8 tonns."
+					"description": "The Cathedral was built between 1936 and 1941 in Neo-Moldavian and Byznatine style. It has 11 towers with the highest one reaching 90.5 meters hosting the massive bells that weigh roughly 8 tonns. The work on the paintings could not be finished once with the building itself and lasted until 1956. The cathedral has an estimated capacity of 5000 people."
 					},
 			        {
 			          "coordinate": {
@@ -706,7 +706,7 @@
 			          },
 			          "title": "Milenium Roman Catholic Church",
 			          "name":"Milenium",
-			          "description": "The church was built between 1896-1901 to celebrate 1000 years of existence of the Hungarian state. Almost 4 million bricks were used to decorate the walls as thick as 3 meters and bearing a Neo-Romanesque with Gothic influence style. The two towers reach 65 meters tall and hold a 2500 kilogram bell. Here, the sunday sermon is held in hungarian, german, romanian and italian."
+			          "description": "The church was built between 1896-1901 to celebrate 1000 years of existence of the Hungarian state. Almost 4 million bricks were used to decorate the walls as thick as 3 meters and bearing a Neo-Romanesque with Gothic influence style. The two towers reach 65 meters tall and hold the 2500 kilogram bell. Here, the sunday sermon is held in hungarian, german, romanian and italian."
 			        },
 			        {
 			          "coordinate": {
@@ -715,7 +715,7 @@
 			          },
 			          "title": "Synagogue - Sinagoga din Cetate",
 			          "name":"Sinagogue",
-			          "description": "Before 1940 Timisoara had a jewish community of well over 13000. The most spectacular of the three synagogues in Timisoara was built between 1863-1865 (architect Carl Schumann) and inaugurated in 1865. It was reinaugurated in 1872 in the presence of the emperor Franz Joseph I. The majority of the members of the jewish community left the city during the second world war or immediately after with the establishment of the state of Israel. This led to the building beeing closed and left to decay. It was reopened in 2005 and is undergoing a long and complicated restauration process."
+			          "description": "Before 1940 Timisoara had a jewish community of well over 13000. The most spectacular of the three synagogues in Timisoara was built between 1863-1865 (architect Carl Schumann) and inaugurated in 1865. It was reinaugurated in 1872 in the presence of the emperor Franz Joseph I. The majority of the members of the jewish community left the city during the second world war or immediately after with the establishment of the state of Israel. This left the building closed most of the time and destined to decay. It was reopened in 2005 and is undergoing a long and complex restauration process."
 			        },
 			         {
 			          "coordinate": {
@@ -724,7 +724,7 @@
 			          },
 			          "title": "Saint George's Cathedral",
 			          "name":"Dome",
-			          "description": "The roman-catholic cathedral construction lasted for over 20 years between 1736-1774. It was designed in a pure barroque style that is considered to be Timisoara's most expressive architectural achievement in this field. The suspiciously reduced hight of the towers for a cathedral is due to the close proximity of the city fortifications of the time."
+			          "description": "The Roman-Catholic cathedral construction lasted for over 20 years between 1736-1774. It was designed in a pure barroque style that is considered to be Timisoara's most expressive architectural achievement in this field. The suspiciously reduced hight of the towers for a cathedral is due to the close proximity of the city fortifications of the time."
 			        }
 	        ],	        
 	        "must":[		        
@@ -734,7 +734,7 @@
 						"longitude": 21.265986
 					},
 					"title": "Village Museum",
-					"description": "The musemum is built on 17 hectares and hosts significant elements of the local villages including original traditional building: houses, church, school. "
+					"description": "The musemum is built on a surface of 17 hectares next to a small forest North of the city. It hosts the most significant elements of the traditional local villages including original buildings that have been restored. Houses belonging to the ethnic groups present in Banat, a traditional wooden romanian church and even one very old school can be found here."
 					},		        
 					{
 					"coordinate": {
@@ -742,7 +742,7 @@
 						"longitude": 21.249067
 					},
 					"title": "The Brewery",
-					"description": "Even though this is not the original location of the brewery, the tradition started in 1718 was continued. The brewery is on the present location since 1750. The beer was meant to supply the austrian army and to compensate for the lack of safe drinking water. The entire brewery is destroyed by a fire in 1890 which led to the aquisition of new equipment that is still in use today."
+					"description": "Even though this is not the original location of the brewery, the tradition that begun in 1718 is best preserved here. The brewery is on the present location since 1750. The beer was meant to supply the austrian army and to compensate for the lack of safe drinking water.  A fire destroyed the entire brewery in 1890 and this led to the aquisition of new equipment that is still in use today."
 					},	        
 					{
 					"coordinate": {
@@ -750,7 +750,7 @@
 						"longitude": 21.227435
 					},
 					"title": "St. Mary and St. Nepomuk Monument",
-					"description": "The statue is representing St. Nepomuk, the patron saint of Catholics in Banat. On the pedestal Scenes from the life of Saint Nepomuk are presented, including his death. The statue was seriously damaged during the 1989 revolution, with bullet marks all over it. It was restored in 1992 and then again in 2016."
+					"description": "The statue represents Saint Nepomuk, the patron saint of Catholics in Banat (this is the cultural and geographical region having Timisoara as its center). On the pedestal Scenes from the life of Saint Nepomuk are presented, including his death. The statue was seriously damaged during the 1989 revolution, with bullet marks all over it. It was restored in 1992 and then again in 2016."
 					},          
 					{
 					"coordinate": {
@@ -758,7 +758,7 @@
 						"longitude": 21.227135
 					},
 					"title": "Huniade Castle",
-					"description": "The oldest building in the city, built in 1308-1315 by king Charles Robert of Anjou, rebuilt after the 1443 eathquake, destroyed again during the 1848 revolution to be rebuilt again into it's current form in 1856. Today it hosts the History Musem, however due to restauration works is closed for the public."
+					"description": "Once the oldest building in the city, it was built in 1308-1315 by king Charles Robert of Anjou, rebuilt after the 1443 eathquake, destroyed again during the 1848 revolution to be rebuilt again into it's current form in 1856. Today it hosts the History Musem, however due to restauration works it is closed for the public."
 					},       
 					{
 					"coordinate": {
@@ -766,7 +766,7 @@
 						"longitude": 21.201675
 					},
 					"title": "Water tower",
-					"description": "It was built from 1912 to 1914 and was part from a plan to bring clean water in the city and build a reliable drainage system. The drainage system built then is still in use today. The tower was designed to provide the city with clean water for four hours should anything happen to the supply system."
+					"description": "It was built from 1912 to 1914 and was part from a plan to bring clean water in the city and build a reliable drainage system. The drainage system built then is still in use today. The tower was designed to provide the city with clean water for four hours, should anything happen to the supply system."
 					},  
 					{
 					"coordinate": {
@@ -774,7 +774,7 @@
 						"longitude": 21.249927
 					},
 					"title": "Traian Square",
-					"description": "Traian Square was designed in 1740 by military engineers and is a replica of Union Square. The Saint George church that can be seen on the eastern side was built between 1745-1755 in barroque style."
+					"description": "Traian Square was designed in 1740 by military engineers and is a replica of Union Square. The Saint George church that can be seen on the eastern side was built between 1745-1755 in barroque style. The Square frequently hosts traditional food fairs and manufacturer markets."
 					}
 	        ]
       },
