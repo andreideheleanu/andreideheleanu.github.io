@@ -4,7 +4,7 @@
     "home": {
       "title": "Localization",
       "b1": "Hotels",
-      "b2": "Public Transport",
+      "b2": "Transport",
       "b3": "Health",
       "b4": "About Timisoara",
       "b5": "Shopping",
@@ -1150,7 +1150,7 @@
     "home": {
       "title": "Localizare",
       "b1": "Hoteluri",
-      "b2": "Transport Public",
+      "b2": "Transport",
       "b3": "Fit & Medical",
       "b4": "Timisoara",
       "b5": "Shopping",
@@ -1251,12 +1251,12 @@
 		},
 		{
 	      	"type":"mall",
-	        "name": "Iulius Mall Timisoara",
+	        "name": "Iulius Town Timisoara",
 	        "adress":"Piața Consiliul Europei 2",
 	        "description":"Program: zilnic 10:00 – 22:00",
 	        "photo":"https://media-cdn.tripadvisor.com/media/photo-s/06/e8/a4/a1/iulius-mall.jpg",
 	        "map":"show on map location",
-	        "link":"https://www.iuliusmall.com/timisoara"
+	        "link":"https://www.iuliustown.ro"
 		},
 		{
 	      	"type":"hyper",
@@ -1265,7 +1265,7 @@
 	        "description":"Program: zilnic 10:00 – 22:00",
 	        "photo":"http://iuliusmall.com/timisoara/wp-content/plugins/uber-grid/timthumb.php?src=http%3A%2F%2Fiuliusmall.com%2Ftimisoara%2Fwp-content%2Fuploads%2F2016%2F09%2FAUCHAN_SITE-1.jpg&w=280&h=280&zc=1",
 	        "map":"show on map location",
-	        "link":"https://www.iuliusmall.com/timisoara"
+	        "link":"https://iuliustown.ro/ro/magazine/auchan"
 		},
 		{
 	      	"type":"hyper",
@@ -1433,7 +1433,7 @@
 	        "map":"show on map location",
 	        "link":"http://www.clinica-vista.ro/"
 	      	},
-			{
+		{
 	      	"type":"privateClinic",
 	        "name": "Centrul Medica Klass",
 	        "adress":"Piata Axente Sever 2 ",
@@ -1464,7 +1464,7 @@
 		      	},
 		      {
 		      	"type":"local",
-		        "name": "Timis County Council",
+		        "name": "Consiliul Judetean Timis",
 		        "adress":"Bd. Revoluţiei din 1989 No.17",
 		        "description":"Telefon: 0040256406406",
 		        "photo":"http://www.cjtimis.ro/gallery/50e7a166-0342-42b2-9831-a44a211a749e/87de5e84-e3dd-44e0-bec9-160ffc4e3c9e/head-full-6/head-full-6.jpg",
@@ -1526,7 +1526,7 @@
 	"food":[{
 		      	"type":"restaurant",
 		        "name": "Valahia",
-		        "adress":"Blv. Liviu Rebreanu, nr.52",
+		        "adress":"Liviu Rebreanu nr.52",
 		        "description":"Telefon: 0040256486104",
 		        "photo":"https://media-cdn.tripadvisor.com/media/photo-s/12/1e/1d/83/photo8jpg.jpg",
 		        "map":"show on map location",
@@ -1535,7 +1535,7 @@
 		      {
 		      	"type":"restaurant",
 		        "name": "Lloyd",
-		        "adress":"Piata Victoriei, nr. 2",
+		        "adress":"Piata Victoriei nr. 2",
 		        "description":"Telefon: 0040744557151",
 		        "photo":"https://www.banatulazi.ro/wp-content/uploads/2018/01/restaurant-lloyd5.jpg",
 		        "map":"show on map location",
@@ -1544,7 +1544,7 @@
 		      {
 		      	"type":"restaurant",
 		        "name": "Pepper",
-		        "adress":"Piata Unirii nr 13, Near Catholic Dome",
+		        "adress":"Piata Unirii nr 13, aproape de Domul Catolic",
 		        "description":"Telefon: 0040720408250",
 		        "photo":"https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/56175003_729264160825871_898077992306081792_n.jpg?_nc_cat=101&_nc_oc=AQlEU29wBqYQb4MTfzgAvuK0-Lcw139nFB8A12lkZR8nbeYPGhMKw1YKVGxxSy2tLSc&_nc_ht=scontent-amt2-1.xx&oh=9b3d6c2d54df4f15ff8b2d0593d796af&oe=5DEADF65",
 		        "link":"https://www.facebook.com/peppertimisoara/"
@@ -1593,7 +1593,7 @@
 	"museum":[
 			{
 				"type":"museum",
-				"description": "Orar: Luni - inchis, Marti - Duminica 10.00 - 18.00",
+				"description": "Orar: Marti - Duminica 10.00 - 18.00, Luni - inchis",
 				"name":"Muzeul National de Istorie a Banatului",
 				"adress":"Bastionul Maria Theresia, Str. Martin Luther, nr. 4",
 				"photo":"https://i0.wp.com/www.opiniatimisoarei.ro/wp-content/uploads/2010/11/spatii-bastion-timisoara-11-e1431681553505.jpg?resize=700%2C336&ssl=1",
@@ -1602,7 +1602,7 @@
 			},
 			{ 
 				"type":"museum",
-				"description": "Orar de vara: Luni - inchis, Marti - Sambata 10.00 - 18.00, Duminica: 10.00 - 20.00, Tikets can be bought by 17.15",
+				"description": "Orar de vara: Marti - Sambata 10.00 - 18.00, Duminica: 10.00 - 20.00, Luni - inchis, Biletele se pot cumpara doar pana la ora 17.15",
 				"name":"Muzeul Satului Banatean",
 				"adress":"somewhere",
 				"photo":"http://cdn1.tion.ro/2014/04/muzeul-satului-banatean-timisoara-08-650x435.jpg",
@@ -1634,7 +1634,7 @@
 				"adress":"Str. Arhitect Szekely Laszlo nr. 1",
 				"photo":"https://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvcGxhY2VfaW1hZ2VzL3MzejlrZWR4am1yMGRlZTgxNDU5ZjcyYTQ4N2RiX0RTQ18wNTQ2LTMuanBnIl0sWyJwIiwidGh1bWIiLCJ4MzkwPiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA4MSAtYXV0by1vcmllbnQiXV0/DSC_0546-3.jpg",
 				"map":"coordinates",
-				"link":"httpsomething"
+				"link":"www.instagram.com/communistconsumersmuseum"
 			},
 			{ 
 				"type":"museum",
