@@ -1662,7 +1662,7 @@
 			          },
 			          "title": "Catedrala Mitropolitana Timișoara",
 			          "name":"Cathedral",
-					  "description": "Construita intre 1936 si 1941 in stil neo-moldovenesc si bizantin are 11 turnuri, iar cel mai inalt atinge 90.5 metri. Pictarea icoanelor a fost incheiata abia in 1956 si este estimat ca poate gazdui 5000 de credinciosi. Turnurile sale adapostesc cele sapte clopote masive cantarind aproape 8 tone."
+					  "description": "Construita intre 1936 si 1941 in stil neo-moldovenesc si bizantin are 11 turnuri, iar cel mai inalt atinge 90.5 metri. Pictarea icoanelor a fost incheiata abia in 1956 si este estimat ca poate gazdui 5000 de credinciosi. Turnurile sale adapostesc cele sapte clopote masive cantarind aproape 8 tone. La subsol poate fi vizitat Muzeul Catedralei."
 			        },
 			        {
 			          "coordinate": {
@@ -1670,7 +1670,7 @@
 			            "longitude": 21.2251843
 			          },
 			          "title": "Piata Victoriei",
-			          "description": "Timisoreni considera Piata Victoriei ca fiind principala piata a orasului. Aici manifestantii anti comunisti din 1989 au declarat orasul liber de comunism iar imaginile surprinse atunci in piata avand cladirea Operei pe fundal au devenit sinonime cu Revolutia de la Timisoara din 1989. Cea mai mare parte a cladirilor aflate intre Catedrala si Opera au fost construite in perioada stapanirii habsburgice si aveau statutul de palate."
+			          "description": "Timisoreni considera Piata Victoriei ca fiind principala piata a orasului. Aici manifestantii anti comunisti din 1989 au declarat orasul liber de comunism iar imaginile surprinse atunci in piata avand cladirea Operei pe fundal au devenit sinonime cu Revolutia de la Timisoara din 1989. Cea mai mare parte a cladirilor aflate intre Catedrala si Opera au fost construite in perioada administratiei habsburgice si aveau statutul de palate."
 			        },
 			        {
 			          "coordinate": {
@@ -1678,15 +1678,15 @@
 			            "longitude": 21.2257563
 			          },
 			          "title": "Opera",
-			          "description": "Cladirea Operei din Timisoara a fost construita intre 1871 si 1875 dupa planurile unor architecti vienezi. Fatada actuala nu este cea originala care a fost afectata de doua incendii, cel din 1920 obligand autoritatile sa recurga la refacerea completa a fatadei. Odata cu fatada a fost renovata complet si principala sala de spectacole. Desi denumita generic Opera, cladirea gazduieste mai multe institutii: Teatrul German de Stat, Teatrul Maghiar si Teatrul National Timisoara."
+			          "description": "Cladirea Operei din Timisoara a fost construita intre 1871 si 1875 dupa planurile unor architecti vienezi. Fatada actuala nu este cea originala care a fost afectata de doua incendii, cel din 1920 obligand autoritatile sa recurga la refacerea completa a acesteia. Odata cu fatada a fost renovata complet si principala sala de spectacole. Desi denumita generic Opera, cladirea gazduieste mai multe institutii: Teatrul German de Stat, Teatrul Maghiar si Teatrul National Timisoara."
 			        },
 			        {
 			          "coordinate": {
 			            "latitude": 45.755729,
 			            "longitude": 21.228773
 			          },
-			          "title": "Saint George Square",
-			          "description": "Piata poarta numele dupa biserica iezuita care s-a aflat aici. Biserica s-ar fi aflat aici inca inainte de stapanirea otomana si odata cu venirea turcilor a fost transformata in moschee. Odata ce Timisoara a trecut in administratie habsburgica moscheea a redevenit biserica si a fost data ordinului iezuit. A fost insa tocmai varsta inaintata cea care i-a determinat pe inginerii civili austrieci sa decida daramarea ei in 1739. Trebuie stiut ca in una dintre cladirile adiacente biserici, cladire ce a scapat de daramare a fost infiintata prima universistate din Timisoara in anul 1845."
+			          "title": "Piata Sfantul Gheorghe",
+			          "description": "Piata poarta numele bisericii iezuite care s-a aflat aici. Biserica s-ar fi aflat aici inca inainte de stapanirea otomana (1552) si odata cu venirea turcilor a fost transformata in moschee. Trecerea orasului sub administratie habsburgica a determinat redevenirea la statutul de biserica si a fost oferita ordinului iezuit. Tocmai varsta inaintata i-a determinat pe inginerii civili austrieci sa decida daramarea ei in 1739. Trebuie stiut ca in una dintre cladirile adiacente biserici, cladire ce a scapat de la daramare a fost infiintata prima universistate din Timisoara in 1845."
 			        },
 			        {
 			          "coordinate": {
@@ -1694,7 +1694,7 @@
 			            "longitude": 21.225904
 			          },
 			          "title": "Sinagoga din Cetate",
-			          "description": "Inainte de 1940 orasul a avut o comunitate evreiasca de peste 13000 de cetateni. Sinagoga din Cetate este probabil cea mai spectaculoasa dintre cele trei aflate in oras. A fost construita intre 1863-1865 (arhitect Carl Schumann) si inaugurata in 1865. A avut parte de o noua inaugurare in prezenta imparatului Franz Joseph I in anul 1872. O mare parte a comunitati evreiesti a parasit orasul in timpul razboiului sau la scurt timp dupa, odata cu infiintarea statului Israel. Astfel sinagoga s-a inchis si in timp deteriorat. A fost redeschisa in 2005 si in prezent se afla intr-un amplu si complex proces de restaurare."
+			          "description": "Inainte de 1940 orasul a avut o comunitate evreiasca de peste 13000 de membri. Sinagoga din Cetate este probabil cea mai spectaculoasa dintre cele trei aflate in oras. A fost construita intre 1863-1865 (arhitect Carl Schumann) si inaugurata in 1865. A avut parte de o a doua inaugurare in prezenta imparatului Franz Josef I in anul 1872. O mare parte a comunitati evreiesti a parasit orasul in timpul razboiului sau la scurt timp dupa, odata cu infiintarea statului Israel (1948). Astfel sinagoga s-a inchis si in timp deteriorat. A fost redeschisa in 2005 si in prezent se afla intr-un amplu si complex proces de restaurare."
 			        },
 			        {
 			          "coordinate": {
@@ -1702,7 +1702,7 @@
 			            "longitude": 21.228844
 			          },
 			          "title": "Piata Unirii",
-			          "description": "Realizata in stil baroc este una dintre cele mai vechi piete din oras, planurile de realizare datand din 1733. Monumentul aflat in cetrul pietei se numeste Sfanta Treime sau Coloana Ciumei si a fost realizat pentru a aminti de ravagiile facute de epidemia de ciuma care a lovit regiunea intre 1731 si 1738."
+			          "description": "Realizata in stil baroc este una dintre cele mai vechi piete din oras, planurile de realizare datand din 1733. Monumentul aflat in cetrul pietei se numeste Sfanta Treime sau Coloana Ciumei si a fost realizat pentru a aminti de ravagiile facute de teribila epidemie de ciuma care a lovit regiunea intre 1731 si 1738 si care a insemnat moartea pentru 10% din populatia orasului."
 			        },
 			          {
 			          "coordinate": {
@@ -1710,7 +1710,7 @@
 			            "longitude": 21.228840
 			          },
 			          "title": "Casa Bruck ",
-			          "description": "Inca din 1910 Casa Bruck este probabil cladirea care iese cel mai flagrant in evidenta in piata. Este lucrarea architectului László Székely si prezinta o combinatie de stiluri Art Nuveau, Secession si motive populare maghiare (sub forma placutelor ceramice atasate pe fatada). In aceasta locatie s-a aflat o farmacie inca din anul 1828 si la parter se afla si in prezent o farmacie. Casa a fost restarurata in anul 2012."
+			          "description": "Inca din 1910 Casa Bruck este probabil cladirea care iese cel mai puternic in evidenta in piata, mai ales prin colorit. Casa este lucrarea architectului László Székely si este o combinatie intre stilurile Art Nuveau si Secession la care se adauga motive populare maghiare (sub forma placutelor ceramice atasate pe fatada). In aceasta locatie s-a aflat o farmacie inca din anul 1828 si la parter se afla si in prezent o farmacie. Casa a fost restarurata in anul 2012."
 			        },
 			         {
 			          "coordinate": {
@@ -1718,7 +1718,7 @@
 			            "longitude": 21.229855
 			          },
 			          "title": "Catedrala Sfantul Gheorghe - Domul Catolic",
-			          "description": "Catedrala romano-catolica a fost realizata dupa lucrari ce au durat mai mult de 20 de ani intre 1736-1774. A fost realizata in stil baroc si este considerata cea mai valoroasa cladire baroc din oras. Catedrala are o inaltime neobisnuit de mica pentru o asemenea cladire insa acest lucru este usor de inteles daca ne amintim ca la distanta foarte mica se aflau fortificatiile de aparare a orasului (o parte din ele au supravietuit la bastionul Theresia aflat foarte aproape)."
+			          "description": "Catedrala romano-catolica a fost realizata dupa lucrari ce au durat mai mult de 20 de ani intre 1736-1751 si 1755-1774. A fost realizata in stil baroc si este considerata cea mai valoroasa cladire baroc din oras. Catedrala are o inaltime neobisnuit de mica pentru o asemenea cladire insa acest lucru este usor de inteles tianand cont ca a fost construita la distanta foarte mica de fortificatiile de aparare a orasului de la acea vreme (o parte din ele, precum bastionul Theresia aflat foarte aproape, au supravietuit pana azi)."
 			        },
 			        {
 			          "coordinate": {
@@ -1726,7 +1726,7 @@
 			            "longitude": 21.229324
 			          },
 			          "title": "Muzeul de Arta Timisoara",
-			          "description": "Construit acum aproape 300 de ani, la mijlocul secolului al XVIII-lea, are actuala infatisare din 1885 in stil neorenascentist francez. Gazduieste o expozitie permanenta de arta romaneasca si diferite expozitii temporare."
+			          "description": "Construit acum aproape 300 de ani, la mijlocul secolului al XVIII-lea, are actuala infatisare din 1885 in stil neorenascentist francez. Cladirea a fost de-a lungul timpului sediul prefecturii, al administratiei Comitatului Timis si chiar al comandamentului trupelor sovietice. Muzeul gazduieste o expozitie permanenta de arta romaneasca si diferite expozitii temporare."
 			        }
 	        ],
 			"park":[
@@ -1737,7 +1737,7 @@
 				},
 				"title": "Parcul Botanic",
 				"name":"BotanicP",
-				"description": "Cunoscuta ca si gradina botanica, este rezultatul planurilor arhitectului Silvia Grumeza. Primele planuri au fost factute in 1966, dar activtatea efectiva de plantare a inceput in 1986. Parcul are o suprafata de 9.8 hectare si o varietate de 1650 de specii de palnte. In 1995 a fost declarat rezervatie stiintifica."
+				"description": "Cunoscuta ca si gradina botanica, este rezultatul initiativei arhitectului Silvia Grumeza. Primele planuri au fost factute in 1966, dar activtatea efectiva de plantare a inceput in doar 1986. Parcul are o suprafata de 9.8 hectare si o varietate de 1650 de specii de palnte. In 1995 a fost declarat rezervatie stiintifica."
 				},
 				{
 				"coordinate": {
@@ -1746,7 +1746,7 @@
 				},
 				"title": "Parcul Central Anton Scudier",
 				"name":"CentralP",
-				"description": "Poarta numele generalului Anton von Scudier, comandantul militar al Timisoarei, cel care a decis in 1880 realizarea parcului. Timisoara a fost pentru cea mai mare parte a istoriei sale un oras puternic fortificat dar progresul tehnologic in domeniul artileriei a facut aceste fortificatii inutile. Prin demolarea fortificatiilor in 1872 suprafete mari de teren au devenit disponibile pentru edilii orasului. Un detaliu sumbru este faptul ca o parte din victimele epidemiei de ciuma din 1738–1739 au fost inmormantate intr-un cimitir care se afla partial sub actualul parc. Decizia de infiintare a parcului a determinat si mutarea ramasitelor umane."
+				"description": "Poarta numele generalului Anton von Scudier, comandantul militar al Timisoarei, cel care a decis in 1880 realizarea parcului. Timisoara a fost pentru cea mai mare parte a istoriei sale un oras puternic fortificat dar progresul tehnologic in domeniul artileriei a facut aceste fortificatii inutile. Prin demolarea fortificatiilor in 1872 suprafete mari de teren au devenit disponibile pentru edilii orasului. Un detaliu ascuns este faptul ca o parte din victimele epidemiei de ciuma din 1738–1739 au fost inmormantate intr-un cimitir care se afla partial sub actualul parc. Decizia de infiintare a parcului a determinat si mutarea ramasitelor umane."
 				},
 				{
 				"coordinate": {
@@ -1755,7 +1755,7 @@
 				},
 				"title": "Parcul Rozelor - Rosarium",
 				"name":"RosesP",
-				"description": "Parcul a fost creat in 1881 cu ocazia Expozitiei Universale. A fost gandit sa se asemene unei gradini englezesti si gazduia 1200 de varietati de trandafir. Puternic afectat de bombardamente in 1944 si de stationarea unitatilor militare sovietice de pana in 1955 parcul a necesitat numeroase lucrari de refacere. Un nou proces de refacere a avut loc in 2012 ocazie cu care a fost adaugat si acoperisul scenei de spectacole."
+				"description": "Parcul a fost creat in 1881 cu ocazia Expozitiei Universale. A fost gandit sa se asemene unei gradini englezesti si gazduia 1200 de varietati de trandafir. Puternic afectat de bombardamente in 1944 si de stationarea unitatilor militare sovietice de pana in 1955 parcul a necesitat numeroase lucrari de refacere. Cel mai recent proces de refacere prin care a trecut parcul a avut loc in 2012."
 				},
 				{
 				"coordinate": {
@@ -1764,7 +1764,7 @@
 				},
 				"title": "Parcul Copiilor",
 				"name": "ChildrenP",
-				"description": "Lucrarile la parc au inceput in 1858 dar nu a fost terminat pana in 1891. Initial s-a numit Parcul Franz Joseph, devenind un parc destinat copiilor in 1950. Asemeni Parcului Rozelor aici au stationat intre 1944-1955 unitati militare sovietice fapt ce dus la semnificative stricaciuni. Forma actuala este rezultatul lucrarilor de reparatii si imbunatatiri din 2011."
+				"description": "Lucrarile la parc au inceput in 1858 dar nu a fost terminat pana in 1891. Initial s-a numit Parcul Franz Josef, devenind un parc destinat copiilor in anii '50. Asemeni Parcului Rozelor aici au stationat intre 1944-1955 unitati militare sovietice fapt ce dus la semnificative stricaciuni. Forma actuala este rezultatul lucrarilor de reparatii si imbunatatiri din 2011."
 				}
 	        ],
 			"spirit":[
@@ -1775,7 +1775,7 @@
 					},
 					"title": "Catedrala Mitropolitana Timisoara",
 					"name":"Cathedral",
-					"description": "Construita intre 1936 si 1941 in stil neo-moldovenesc si bizantin are 11 turnuri, iar cel mai inalt atinge 90.5 metri. Pictarea icoanelor a fost incheiata abia in 1956 si este estimat ca poate gazdui 5000 de credinciosi. Turnurile sale adapostesc cele sapte clopote masive cantarind aproape 8 tone."
+					"description": "Construita intre 1936 si 1941 in stil neo-moldovenesc si bizantin are 11 turnuri, iar cel mai inalt atinge 90.5 metri. Pictarea icoanelor a fost incheiata abia in 1956 si este estimat ca poate gazdui 5000 de credinciosi. Turnurile sale adapostesc cele sapte clopote masive cantarind aproape 8 tone. La subsol poate fi vizitat Muzeul Catedralei."
 					},
 			        {
 			          "coordinate": {
@@ -1784,7 +1784,7 @@
 			          },
 			          "title": "Sinagoga din Cetate",
 			          "name":"Sinagogue",
-			          "description": "Inainte de 1940 orasul a avut o comunitate evreiasca de peste 13000 de cetateni. Sinagoga din Cetate este cea mai spectaculoasa dintre cele trei aflate in oras. A fost construita intre 1863-1865 (arhitect Carl Schumann) si inaugurata in 1865. A avut parte de o noua inaugurare in prezenta imparatului Franz Joseph I in anul 1872. O mare parte a comunitati evreiesti a parasit orasul in timpul razboiului sau la scurt timp dupa, odata cu infiintarea statului Israel. Astfel sinagoga s-a inchis si in timp deteriorat. A fost redeschisa in 2005 si in prezent se afla intr-un amplu si complex proces de restaurare."
+			          "description": "Inainte de 1940 orasul a avut o comunitate evreiasca de peste 13000 de cetateni. Sinagoga din Cetate este probabil cea mai spectaculoasa dintre cele trei aflate in oras. A fost construita intre 1863-1865 (arhitect Carl Schumann) si inaugurata in 1865. A avut parte de o noua inaugurare in prezenta imparatului Franz Joseph I in anul 1872. O mare parte a comunitati evreiesti a parasit orasul in timpul razboiului sau la scurt timp dupa, odata cu infiintarea statului Israel. Astfel sinagoga s-a inchis si in timp deteriorat. A fost redeschisa in 2005 si in prezent se afla intr-un amplu si complex proces de restaurare."
 			        },
 			         {
 			          "coordinate": {
@@ -1802,7 +1802,7 @@
 			          },
 			          "title": "Biserica Millenium",
 			          "name":"Milenium",
-			          "description": "Biserica romano-catolica a fost construita intre 1896-1901 pentru a celebra 1000 de ani (de aici numele Millenium) de la infiintarea statului maghiar. Aproape 4 milioane de caramizi au fost folosite la decorarea zidurilor exterioare, ziduri care ating si 3 metri grosime. Este construita in stil neoromanic cu influente gotice iar cele doua turnuri ajung la 65 de metri si adapostesc un clopot de 2500 de kilograme. Slujble se tin aici duminica in limbile: maghiara, germana, romana si italiana."
+			          "description": "Biserica romano-catolica a fost construita intre 1896-1901 pentru a celebra 1000 de ani (de aici numele Millenium) de la infiintarea statului maghiar. Aproape 4 milioane de caramizi au fost folosite la decorarea zidurilor exterioare, ziduri care ating si 3 metri grosime. Este construita in stil neoromanic cu influente gotice iar cele doua turnuri ating 65 de metri si adapostesc un clopot de 2500 de kilograme. Slujble se tin aici duminica in limbile: maghiara, germana, romana si italiana."
 			        }
 	        ],
 	        "museum":[
@@ -1814,7 +1814,7 @@
 				"title": "Muzeul de Arta Timisoara",
 				"name":"Ma", 
 				"description": { 
-					"a": "Orar: Luni - inchis, Marti - Duminica 10.00 - 18.00",
+					"a": "Orar: Marti - Duminica 10.00 - 18.00,  Luni - inchis",
 					"b": "Construit acum aproape 300 de ani, la mijlocul secolului al XVIII-lea, are actuala infatisare din 1885 in stil neorenascentist francez. Gazduieste o expozitie permanenta de arta romaneasca si diferite expozitii temporare.",
 					"c": "www.muzeuldeartatm.ro"
 				}
@@ -1828,7 +1828,7 @@
 				"name":"Mr",
 				"description": {
 					"a": "Orar: Luni - Vineri: 8.00 - 16.00, Sambata: 10.00 - 14.00, Duminica: inchis",
-					"b": "Muzeul este dedicat evenimentelor care au avut loc in Romania si alte state din Europa de est in anul 1989. Muzeul asigura tururi ghidate pentru grupuri in limbile: romana, germana, engleza, italiana, franceza, maghiara and sarba.",
+					"b": "Muzeul este dedicat evenimentelor care au avut loc in Romania si alte state din Europa de est in anul 1989. Muzeul asigura tururi ghidate pentru grupuri in limbile: romana, germana, engleza, italiana, franceza, maghiara si sarba.",
 					"c": "www.memorialulrevolutiei.ro"
 				}
 				},
@@ -1841,7 +1841,7 @@
 				"name":"Mcc",
 				"description": {
 					"a":"Orar: Luni - Vineri: 10.00 - 23.00, Sambata: 11.00 - 23.00, Duminica: 14.00 - 23.00",
-					"b":"Destinat marcilor si produselor de larg consum disponibile consumatorului roman in perioada comunista acesta este unul dintre cele mai neconventionale muzee ale orasului.",
+					"b":"Desi nu este un muzeu in adevaratul sens al cuvantului, gruparea marcilor si produselor de larg consum disponibile consumatorului roman in perioada comunista face din aceasta locatie una dintre cele mai interesante incursiuni in trecutul locuitorilor orasului.",
 					"c":"www.instagram.com/communistconsumersmuseum"
 				}
 				},
@@ -1867,7 +1867,7 @@
 				"name":"Mmb",
 				"description":{
 					"a":"Orar: Marti - Sambata: 10.00 - 17.00, Luni si Duminica: inchis",
-					"b":"Aflat la subsolul Catedralei Mitropolitane acest muzeu este foarte bine ascuns si arareori promovat. Exponatele ce pot fi vazute aici sunt in totalitatea lor din categoria arta religioasa.",
+					"b":"Aflat la subsolul Catedralei Mitropolitane acest muzeu este foarte bine 'ascuns' si putin promovat. Exponatele ce pot fi vazute aici sunt in totalitatea lor din categoria arta religioasa.",
 					"c":"mitropolia-banatului.ro/colectia-de-arta-bisericeasca-veche/"
 				}
 				}
@@ -1879,7 +1879,7 @@
 						"longitude": 21.265986
 					},
 					"title": "Muzeul Satului Banatean",
-					"description": "Muzeul este construit pe o suprafata de 17 hectare si gazduieste elemente semnificative satului Banatean inclusiv cladiri traditionale care au fost aduse si reasamblate aici; case din diferite parti ale Banatului, o biserica, scoala."
+					"description": "Muzeul este construit pe o suprafata de 17 hectare si gazduieste elemente reprezentative pentru satul Banatean. Cladiri traditionale din diferite parti ale Banatului au fost de-a lungul timpului salvate de la distrugere si reasamblate aici."
 					},		        
 					{
 					"coordinate": {
@@ -1887,7 +1887,7 @@
 						"longitude": 21.249067
 					},
 					"title": "Fabrica de bere",
-					"description": "Desi aceasta nu este locatia originala a fabricii, traditia inceputa la 1718 este continuata aici. Actuala locatie a fost aleasa abia in 1750 dupa ce alte doua locatii au fost abandonate. Scopul declarat a fost acela de a furniza bere efectivelor armatei austriece cantonate in oras dar si sa rezolve problema lipsei apei curate in Timisoara. Fabrica a fost distrusa de un incendiu in 1890 fapt ce a dus la achizitia de echipamente noi, echipamente aflate si azi in functionare."
+					"description": "Desi aceasta nu este locatia initiala a fabricii, traditia inceputa la 1718 este continuata aici. Actuala locatie a fost aleasa abia in 1750 dupa ce alte doua locatii au fost abandonate. Scopul declarat a fost acela de a furniza bere efectivelor armatei austriece cantonate in oras dar si sa rezolve problema lipsei apei curate in Timisoara. Fabrica a fost distrusa de un incendiu in 1890 fapt ce a dus la achizitia de echipamente noi, echipamente aflate si azi in functionare."
 					},	        
 					{
 					"coordinate": {
@@ -1911,7 +1911,7 @@
 						"longitude": 21.201675
 					},
 					"title": "Turnul de apa",
-					"description": "A fost construit intre 1912 si 1914 ca parte a planurilor de a aduce apa curata in Timisoara si de realiza un sistem de canalizare. Sistemul de canalizare construit atunci este si azi in functiune. Scopul turnului era acela de a furniza apa timp de patru ore orasului in caz ca sistemul de alimentare suferea avarii."
+					"description": "A fost construit intre 1912-1914 ca parte a planurilor de a aduce apa curata in Timisoara si de realiza un sistem de canalizare. Sistemul de canalizare construit atunci este si azi in functiune. Scopul turnului era acela de a furniza apa timp de patru ore orasului in caz ca sistemul de alimentare suferea avarii."
 					},  
 					{
 					"coordinate": {
@@ -1919,7 +1919,7 @@
 						"longitude": 21.249927
 					},
 					"title": "Piata Traian",
-					"description": "Piata Traian a fost realizata de ingineri militari in 1740 si se dorea sa fie replica mai mica a Pietei Unirii. Pe latura estica a pietei se poate vedea una dintre cele mai vechi biserici din oras: Biserica Sfantul Gheorghe, construita intre 1745-1755 in stil baroc."
+					"description": "Piata Traian a fost realizata de ingineri militari in 1740 si se dorea sa fie replica mai mica a Pietei Unirii. Pe latura estica a pietei se poate vedea una dintre cele mai vechi biserici din oras: Biserica Sfantul Gheorghe, construita intre 1745-1755 in stil baroc. Piata gazduieste frecvent targuri ale mestesugarilor populari sau eveninmente destinate mancarii traditionale."
 					}
 	        ]
       },
