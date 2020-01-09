@@ -587,6 +587,32 @@
 	        "museum":[
 				{
 				"coordinate": {
+					"latitude": 45.759721,
+					"longitude": 21.231533
+				},
+				"title": "Museum of the 1989 Timisoara Revolution",
+				"name":"Mr",
+				"description": {
+					"a": "Working hours: Monday - Friday: 8.00 - 16.00, Saturday: 10.00 - 14.00, Sunday: closed",
+					"b": "The museum is dedicated to the events that took place in Romania and other Eastern European countries throughout 1989. Guided tours for groups are provided in: Romanian, German, English, Italian, French, Hungarian and Serbian.",
+					"c": "www.memorialulrevolutiei.ro"
+				}
+				},
+				{
+				"coordinate": {
+					"latitude": 45.756948,
+					"longitude": 21.232515
+				},
+				"title": "National Museum of Banat History",
+				"name":"Mnib",
+				"description":{
+					"a":"Working hours: Tuesday - Sunday: 10.00 - 18.00, Monday: closed",
+					"b":"Established in 1877 the museum is now hosted by the Huniade Castle and a part of the former Habsburgic era city fortifications. It hosts various historical exhibitions from prehistoric times to Roman era, the Middle Ages and Modern Romania.",
+					"c":"www.mnab.ro"
+				}				
+				},
+				{
+				"coordinate": {
 					"latitude": 45.757470,
 					"longitude": 21.229324
 				},
@@ -600,15 +626,15 @@
 				},
 				{
 				"coordinate": {
-					"latitude": 45.759721,
-					"longitude": 21.231533
+					"latitude": 45.7507206,
+		            		"longitude": 21.2242106
 				},
-				"title": "Museum of the 1989 Timisoara Revolution",
-				"name":"Mr",
-				"description": {
-					"a": "Working hours: Monday - Friday: 8.00 - 16.00, Saturday: 10.00 - 14.00, Sunday: closed",
-					"b": "The museum is dedicated to the events that took place in Romania and other Eastern European countries throughout 1989. Guided tours for groups are provided in: Romanian, German, English, Italian, French, Hungarian and Serbian.",
-					"c": "www.memorialulrevolutiei.ro"
+				"title": "Orthodox Cathedral Museum",
+				"name":"Mmb",
+				"description":{
+					"a":"Working hours: Tuesday - Saturday: 10.00 - 17.00, Monday & Sunday: closed",
+					"b":"Located in the basement of the Orthodox Cathedral, it is quite easy to miss and hardly ever spoken about. It is 100% composed of religious art.",
+					"c":"mitropolia-banatului.ro/colectia-de-arta-bisericeasca-veche/"
 				}
 				},
 				{
@@ -623,33 +649,7 @@
 					"b":"One very unconventional museum, dedicated to the brands and consumer goods available during the communist regime in Romania.",
 					"c":"www.instagram.com/communistconsumersmuseum"
 				}
-				},
-				{
-				"coordinate": {
-					"latitude": 45.756948,
-					"longitude": 21.232515
-				},
-				"title": "National Museum of Banat History",
-				"name":"Mnib",
-				"description":{
-					"a":"Working hours: Tuesday - Sunday: 10.00 - 18.00, Monday: closed",
-					"b":"Established in 1877 the museum is now hosted by the Huniade Castle and a part of the former Habsburgic era city fortifications. It hosts various historical exhibitions from prehistoric times to Roman era, the Middle Ages and Modern Romania.",
-					"c":"www.mnab.ro"
-				}
-				},
-				{
-				"coordinate": {
-					"latitude": 45.7507206,
-		            "longitude": 21.2242106
-				},
-				"title": "Orthodox Cathedral Museum",
-				"name":"Mmb",
-				"description":{
-					"a":"Working hours: Tuesday - Saturday: 10.00 - 17.00, Monday & Sunday: closed",
-					"b":"Located in the basement of the Orthodox Cathedral, it is quite easy to miss and hardly ever spoken about. It is 100% composed of religious art.",
-					"c":"mitropolia-banatului.ro/colectia-de-arta-bisericeasca-veche/"
-				}
-				}
+				}												
 	        ],
 	        "park":[
 				{
