@@ -1808,19 +1808,6 @@
 	        "museum":[
 				{
 				"coordinate": {
-					"latitude": 45.757470,
-					"longitude": 21.229324
-				},
-				"title": "Muzeul de Arta Timisoara",
-				"name":"Ma", 
-				"description": { 
-					"a": "Orar: Marti - Duminica 10.00 - 18.00,  Luni - inchis",
-					"b": "Construit acum aproape 300 de ani, la mijlocul secolului al XVIII-lea, are actuala infatisare din 1885 in stil neorenascentist francez. Gazduieste o expozitie permanenta de arta romaneasca si diferite expozitii temporare.",
-					"c": "www.muzeuldeartatm.ro"
-				}
-				},
-				{
-				"coordinate": {
 					"latitude": 45.759721,
 					"longitude": 21.231533
 				},
@@ -1830,19 +1817,6 @@
 					"a": "Orar: Luni - Vineri: 8.00 - 16.00, Sambata: 10.00 - 14.00, Duminica: inchis",
 					"b": "Muzeul este dedicat evenimentelor care au avut loc in Romania si alte state din Europa de est in anul 1989. Muzeul asigura tururi ghidate pentru grupuri in limbile: romana, germana, engleza, italiana, franceza, maghiara si sarba.",
 					"c": "www.memorialulrevolutiei.ro"
-				}
-				},
-				{
-				"coordinate": {
-					"latitude": 45.743243, 
-					"longitude": 21.224238
-				},
-				"title": "Muzeul Consumatorului Comunist",
-				"name":"Mcc",
-				"description": {
-					"a":"Orar: Luni - Vineri: 10.00 - 23.00, Sambata: 11.00 - 23.00, Duminica: 14.00 - 23.00",
-					"b":"Desi nu este un muzeu in adevaratul sens al cuvantului, gruparea marcilor si produselor de larg consum disponibile consumatorului roman in perioada comunista face din aceasta locatie una dintre cele mai interesante incursiuni in trecutul locuitorilor orasului.",
-					"c":"www.instagram.com/communistconsumersmuseum"
 				}
 				},
 				{
@@ -1860,8 +1834,21 @@
 				},
 				{
 				"coordinate": {
+					"latitude": 45.757470,
+					"longitude": 21.229324
+				},
+				"title": "Muzeul de Arta Timisoara",
+				"name":"Ma", 
+				"description": { 
+					"a": "Orar: Marti - Duminica 10.00 - 18.00,  Luni - inchis",
+					"b": "Construit acum aproape 300 de ani, la mijlocul secolului al XVIII-lea, are actuala infatisare din 1885 in stil neorenascentist francez. Gazduieste o expozitie permanenta de arta romaneasca si diferite expozitii temporare.",
+					"c": "www.muzeuldeartatm.ro"
+				}
+				},
+				{
+				"coordinate": {
 					"latitude": 45.7507206,
-		            "longitude": 21.2242106
+		           		 "longitude": 21.2242106
 				},
 				"title": "Muzeul Catedralei",
 				"name":"Mmb",
@@ -1870,7 +1857,20 @@
 					"b":"Aflat la subsolul Catedralei Mitropolitane acest muzeu este foarte bine 'ascuns' si putin promovat. Exponatele ce pot fi vazute aici sunt in totalitatea lor din categoria arta religioasa.",
 					"c":"mitropolia-banatului.ro/colectia-de-arta-bisericeasca-veche/"
 				}
+				},
+				{
+				"coordinate": {
+					"latitude": 45.743243, 
+					"longitude": 21.224238
+				},
+				"title": "Muzeul Consumatorului Comunist",
+				"name":"Mcc",
+				"description": {
+					"a":"Orar: Luni - Vineri: 10.00 - 23.00, Sambata: 11.00 - 23.00, Duminica: 14.00 - 23.00",
+					"b":"Desi nu este un muzeu in adevaratul sens al cuvantului, gruparea marcilor si produselor de larg consum disponibile consumatorului roman in perioada comunista face din aceasta locatie una dintre cele mai interesante incursiuni in trecutul locuitorilor orasului.",
+					"c":"www.instagram.com/communistconsumersmuseum"
 				}
+				}				
 			],
 	          "must":[			        
 					{
