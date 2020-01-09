@@ -690,25 +690,16 @@
 				}
 	        ],
 	        "spirit":[
-					{
-					"coordinate": {
-						"latitude": 45.7507206,
-						"longitude": 21.2242106
-					},
-					"title": "Timișoara Orthodox Cathedral",
-					"name":"Cathedral",
-					"description": "The Cathedral was built between 1936 and 1941 in Neo-Moldavian and Byznatine style. It has 11 towers with the highest one reaching 90.5 meters hosting the massive bells that weigh roughly 8 tonns. The work on the paintings could not be finished once with the building itself and lasted until 1956. The cathedral has an estimated capacity of 5000 people."
-					},
-			        {
-			          "coordinate": {
-			            "latitude": 45.757056,
-			            "longitude": 21.247857
-			          },
-			          "title": "Milenium Roman Catholic Church",
-			          "name":"Milenium",
-			          "description": "The church was built between 1896-1901 to celebrate 1000 years of existence of the Hungarian state. Almost 4 million bricks were used to decorate the walls as thick as 3 meters and bearing a Neo-Romanesque with Gothic influence style. The two towers reach 65 meters tall and hold the 2500 kilogram bell. Here, the sunday sermon is held in hungarian, german, romanian and italian."
-			        },
-			        {
+				{
+				"coordinate": {
+					"latitude": 45.7507206,
+					"longitude": 21.2242106
+				},
+				"title": "Timișoara Orthodox Cathedral",
+				"name":"Cathedral",
+				"description": "The Cathedral was built between 1936 and 1941 in Neo-Moldavian and Byznatine style. It has 11 towers with the highest one reaching 90.5 meters hosting the massive bells that weigh roughly 8 tonns. The work on the paintings could not be finished once with the building itself and lasted until 1956. The cathedral has an estimated capacity of 5000 people."
+				},
+				{
 			          "coordinate": {
 			            "latitude": 45.756469,
 			            "longitude": 21.225904
@@ -717,7 +708,7 @@
 			          "name":"Sinagogue",
 			          "description": "Before 1940 Timisoara had a jewish community of well over 13000. The most spectacular of the three synagogues in Timisoara was built between 1863-1865 (architect Carl Schumann) and inaugurated in 1865. It was reinaugurated in 1872 in the presence of the emperor Franz Joseph I. The majority of the members of the jewish community left the city during the second world war or immediately after with the establishment of the state of Israel. This left the building closed most of the time and destined to decay. It was reopened in 2005 and is undergoing a long and complex restauration process."
 			        },
-			         {
+				{
 			          "coordinate": {
 			            "latitude": 45.758137,
 			            "longitude": 21.229855
@@ -726,6 +717,15 @@
 			          "name":"Dome",
 			          "description": "The Roman-Catholic cathedral construction lasted for over 20 years between 1736-1774. It was designed in a pure barroque style that is considered to be Timisoara's most expressive architectural achievement in this field. The suspiciously reduced hight of the towers for a cathedral is due to the close proximity of the city fortifications of the time."
 			        }
+			        {
+			          "coordinate": {
+			            "latitude": 45.757056,
+			            "longitude": 21.247857
+			          },
+			          "title": "Milenium Roman Catholic Church",
+			          "name":"Milenium",
+			          "description": "The church was built between 1896-1901 to celebrate 1000 years of existence of the Hungarian state. Almost 4 million bricks were used to decorate the walls as thick as 3 meters and bearing a Neo-Romanesque with Gothic influence style. The two towers reach 65 meters tall and hold the 2500 kilogram bell. Here, the sunday sermon is held in hungarian, german, romanian and italian."
+			        }			        
 	        ],	        
 	        "must":[		        
 					{
@@ -1768,15 +1768,15 @@
 				}
 	        ],
 			"spirit":[
-					{
-					"coordinate": {
-						"latitude": 45.7507206,
-						"longitude": 21.2242106
-					},
-					"title": "Catedrala Mitropolitana Timisoara",
-					"name":"Cathedral",
-					"description": "Construita intre 1936 si 1941 in stil neo-moldovenesc si bizantin are 11 turnuri, iar cel mai inalt atinge 90.5 metri. Pictarea icoanelor a fost incheiata abia in 1956 si este estimat ca poate gazdui 5000 de credinciosi. Turnurile sale adapostesc cele sapte clopote masive cantarind aproape 8 tone. La subsol poate fi vizitat Muzeul Catedralei."
-					},
+				{
+				"coordinate": {
+					"latitude": 45.7507206,
+					"longitude": 21.2242106
+				},
+				"title": "Catedrala Mitropolitana Timisoara",
+				"name":"Cathedral",
+				"description": "Construita intre 1936 si 1941 in stil neo-moldovenesc si bizantin are 11 turnuri, iar cel mai inalt atinge 90.5 metri. Pictarea icoanelor a fost incheiata abia in 1956 si este estimat ca poate gazdui 5000 de credinciosi. Turnurile sale adapostesc cele sapte clopote masive cantarind aproape 8 tone. La subsol poate fi vizitat Muzeul Catedralei."
+				},
 			        {
 			          "coordinate": {
 			            "latitude": 45.756469,
